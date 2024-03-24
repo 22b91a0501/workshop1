@@ -24,7 +24,6 @@
 <profiles>
 <profile>
 <id>'sonar'</id>
-	<h3>hello</h3>
 <activation>
 <activeByDefault>true</activeByDefault></activation>
 
